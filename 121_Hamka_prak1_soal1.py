@@ -13,5 +13,7 @@ if (batas1 >= 0 and batas2 >= 0) :
 else:
     print("Batas 1 atau batas 2 tidak boleh dibawah 0")
 
-print("Maka totalnya adalah :", total)
 
+print("Batas bawahnya adalah :", batas1)
+print("Batas atasnya adalah :", batas2)
+print("Maka totalnya adalah :", total)
